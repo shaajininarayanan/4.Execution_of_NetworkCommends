@@ -29,7 +29,7 @@ This commands includes
 ## Output
 ## netstat
 <img width="1920" height="1080" alt="Screenshot 2026-05-25 082744" src="https://github.com/user-attachments/assets/a2d95fec-3d1e-4de3-ab43-92900a9c012d" />
-## ipconfig
+# ipconfig
 <img width="1920" height="1080" alt="Screenshot 2026-05-25 082858" src="https://github.com/user-attachments/assets/84472b26-25e5-4e68-b695-c0decf15a264" />
 ## ping
 <img width="1920" height="1080" alt="Screenshot 2026-05-25 082940" src="https://github.com/user-attachments/assets/1f470f49-402b-4c02-8a07-4b13b63f2add" />
